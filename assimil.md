@@ -38,4 +38,20 @@ Il manque trois boutons à ma chemise.
 Ce restaurant est à éviter à tout prix.  
 Il nous a offert cette remarquable lampe em marbre.  
 Il n'est pas bête pour un sou.  
-Le décor est terne, la cuisine quelconque et les prix sont ruineux.  
+Le décor est terne, la cuisine quelconque et les prix sont ruineux.
+
+## Leçon 8
+Quant à elle, elle conduira ma voiture.
+On a beau dire de prendre le métro; ce n'est pas touours facile.
+Un peu partout ça roule mal; surtout aux heures de pointe.
+Quant à nous, nous avons tendance à laisser la voiture au garage.
+Le Directeur a fait le point de nos ventes pour avril.
+
+## Leçon 9
+Je n'en ai ni le temps ni l'envie, mais allez-y.
+Il a entendu un bruit et il est descendu de la voiture.
+J'amais beaucoup Londres sauf quil il pleuvait.
+Elle lui a cherché partout; on n'en trouve nulle part.
+La station de taxi est just devant la gare.
+
+## Leçon 10
