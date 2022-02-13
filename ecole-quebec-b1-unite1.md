@@ -162,13 +162,24 @@ Non, je n'ai pas encore passé un Noël blanc.
 2- Passé composé avec être
 Naître, Mourir, Décéder, Entrer, Sortir, Monter, Descendre, Rentrer, Retourner, Passer, Aller, Venir, Tomber, Arriver, Rester, Partir
 
-				Savoir	Avoir	Mettre	Découvrir	Prendre	Être	Dire	Perdre	Devoir	Vivre	Conduire	Pleuvoir
-J'ai			su		eu		mis		découvert	pris	été		dit		perdu	dû		vécu	conduit	
-Tu as			su		eu		mis		découvert	pris	été		dit		perdu	dû		vécu	conduit	
-Il/Elle/On a	su		eu		mis		découvert	pris	été		dit		perdu	dû		vécu	conduit		plu
-Nous avons		su		eu		mis		découvert	pris	été		dit		perdu	dû		vécu	conduit	
-Vous avez		su		eu		mis		découvert	pris	été		dit		perdu	dû		vécu	conduit	
-Ils/Elles ont	su		eu		mis		découvert	pris	été		dit		perdu	dû		vécu	conduit	
+|Sujet|Savoir|Avoir|Mettre|Découvrir|Prendre|Être|	
+|:-----:|:------:|:------:|:-----:|:------:|:--------:|:-----:|
+|J'ai|su|eu|mis|découvert|pris|été|
+|Tu as|su|eu|mis|découvert|pris|été|
+|Il/Elle/On a|su|eu|mis|découvert|pris|été|
+|Nous avons|su|eu|mis|découvert|pris|été|
+|Vous avez|su|eu|mis|découvert|pris|été|
+|Ils/Elles ont|su|eu|mis|découvert|pris|été|
+
+|Sujet|Dire|Perdre|Devoir|Vivre|Conduire|Pleuvoir|	
+|:-----:|:------:|:------:|:-----:|:------:|:--------:|:-----:|
+|J'ai|dit|perdu|dû|vécu|conduit|-	
+|Tu as|dit|perdu|dû|vécu|conduit|	-
+|Il/Elle/On a|dit|perdu|dû|vécu|conduit|plu	
+|Nous avons|dit|perdu|dû|vécu|conduit|-	
+|Vous avez|dit|perdu|dû|vécu|conduit|-	
+|Ils/Elles ont|dit|perdu|dû|vécu|conduit|-
+
 
 4-  
 a) Je/J' suis sorti(e)  
