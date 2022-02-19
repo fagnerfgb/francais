@@ -2,8 +2,8 @@
 Course de Français - B1  
 Unité 1  
 Fagner Geraldes Braga    
-30/01/2022  
-**************************
+de 12/02/2022 jusqu'à 19/02/2022    
+********************************
 Page 9
 
 1. Présentez-vous.  
@@ -160,7 +160,7 @@ Non, je n'ai pas encore passé un Noël blanc.
 **************************
 
 2- Passé composé avec être
-Naître, Mourir, Décéder, Entrer, Sortir, Monter, Descendre, Rentrer, Retourner, Passer, Aller, Venir, Tomber, Arriver, Rester, Partir
+Naître, Mourir, Décéder, Entrer, Sortir, Monter, Descendre, Rentrer, Retourner, Aller, Venir, Tomber, Arriver, Rester, Partir
 
 |Sujet|Savoir|Avoir|Mettre|Découvrir|Prendre|Être|	
 |:-----:|:------:|:------:|:-----:|:------:|:--------:|:-----:|
@@ -268,3 +268,256 @@ a) Je courais, quand tout à coup, un homme a pris mon bras.
 b) Lucie lavait la vaisselle pendant que Judith lisait le journal.  
 c) Samedi, nous avons fêté mon anniversaire chez un ami.  
 d) L'année dernière, ma famille et moi avons passé l'été dans les Laurentides.  
+
+Page 16  
+1-  
+
+|Sujet|Naître|Valoir|Faire|Prendre|Grandir|Connaître|
+|:-----:|:------:|:------:|:-----:|:------:|:--------:|:-----:|
+|Je|nais|vaux|fais|prends|grandis|connais|
+|Tu|nais|vaux|fais|prends|grandis|connais|
+|Il/Elle/On|nait|vaut|fait|prend|grandit|connait|
+|Nous|naissons|valons|faisons|prenons|grandissons|connaissons|
+|Vous|naissez|valez|faites|prenez|grandissez|connaissez|
+|Ils/Elles|naissent|valent|font|prennent|grandissent|connaissent|
+
+|Sujet|Voir|Attendre|Vouloir|Dire|Courir|Acheter|
+|:-----:|:------:|:------:|:-----:|:------:|:--------:|:-----:|
+|Je|vois|attends|veux|dis|cours|achète|
+|Tu|vois|attends|veux|dis|cours|achètes|
+|Il/Elle/On|voit|attend|veut|dit|court|achète|
+|Nous|voyons|attendons|voulons|disons|courons|achetons|
+|Vous|voyez|attendez|voulez|dites|courez|achetez|
+|Ils/Elles|voient|attendent|veulent|disent|courent|achètent|
+
+|Sujet|Venir|Lire|Réfléchir|Choisir|Partir|Sortir|
+|:-----:|:------:|:------:|:-----:|:------:|:--------:|:-----:|
+|Je|viens|lis|réfléchis|choisis|pars|sors|
+|Tu|viens|lis|réfléchis|choisis|pars|sors|
+|Il/Elle/On|vient|lit|réfléchit|choisit|part|sort|
+|Nous|venons|lisons|réfléchissons|choisissons|partons|sortons|
+|Vous|venez|lisez|réfléchissez|choisissez|partez|sortez|
+|Ils/Elles|viennent|lisent|réfléchissez|choisissent|partent|sortent|
+
+
+|Sujet|Mettre|Écrire|Devoir|Pouvoir|Manger|Finir
+|:-----:|:------:|:------:|:-----:|:------:|:--------:|:-----:|
+|Je|mets|écris|dois|peux|manges|finis|
+|Tu|mets|écris|dois|peux|manges|finis|
+|Il/Elle/On|met|écrit|doit|peut|mange|finit|
+|Nous|mettons|écrivons|devons|pouvons|mangeons|finissons|
+|Vous|mettez|écrivez|devez|pouvez|mangez|finissez|
+|Ils/Elles|mettent|écrivent|doivent|peuvent|mangent|finissent|
+
+2-  
+a) Samuel de Champlain meurt le 25 décembre 1635 à Québec.  (mourir)  
+b) À cause de la tempête, les vagues atteignent une hauteur de plus de 7 mètres. (atteindre)  
+c) Les élèves peuvent sortir à l'extérieur pour le dîner, seulement s’ils ont une autorisation parentale. (pouvoir)  
+d) Ce crochet sert à abaisser la toile. (servir)  
+e) Nicolas éteint la lumière pour développer ses photos. (éteindre)  
+f) Les avions atterrissent à l'aéroport Pierre-Elliott-Trudeau. (atterrir)  
+g) Tes parents savent que tu es ici? (savoir) (être)  
+
+3-  
+a) Tous les jours, je prends (prendre) ma douche à 8h00.  
+b) Lorsque les mariés entrent (entrer) dans la salle, tout le monde applaudit (applaudir).  
+c) - Que fais (faire)-tu? - Je fais (faire) un gâteau pour l'anniversaire de ma mère.  
+d) Je réfléchis (réfléchir) toujours avant de prendre une décision.  
+e) Julie rougit (rougir) vraiment facilement.  
+f) Les drogues fortes créent (créer) une dépendance dangereuse.  
+
+4-  
+a) Ils offrent de beaux cadeaux à leurs petits-enfants.   
+b) Vous dites que je ne peux pas entrer?   
+c) Tu viens avec nous ou quoi?   
+d) Nous portons des lunettes toutes les deux.  
+e) Je ne peux pas te le dire.  
+f) On y va?
+
+5-  
+a) Est-ce que vous aimez lire?  
+Non, je n'aime pas lire.
+**************************
+b) Vous allez à l'école en transport en commun?  
+Non, je ne vais pas à l'école en transport en commun.
+**************************
+c) Vos enfants parlent français?  
+Non, ils ne parlent pas français.
+*************************
+d) Tu habites loin d'ici?  
+Non, je n'habite pas loin d'ici.
+**************************
+e) Je peux entrer?  
+Non, Tu ne peux pas entrer.
+**************************
+f) Ta blonde a aimé le nouveau film de Xavier Dolan? 
+Non, elle ne l'a pas aimé.
+**************************
+
+9-  
+Hier, Julie s'est levée (se lever) à 10h am. Il faisait (faire) très beau.   
+Elle s'est habillée (s'habiller) rapidement et est sortie (sortir) à l'extérieur.   
+Ses amis l'attendaient (attendre) depuis déjà une heure pour aller à la plage.  
+Ils étaient (être) tous très excités d'aller à Ubatuba. 
+Ils sont partis (partir) dès l'arrivée de Julie.   
+En route, ils chantaient (chanter), ils ont riaient (rire) et ils se amusaient (s'amuser).   
+C'était (être) Nicolas qui conduisait (conduire).   
+Même s'il faisait (faire) soleil en matinée, à leur arrivée à la plage, il pleuvait (pleuvoir).   
+Julie, Nicolas et leurs amis sont retournés (retourner) à São Paulo et sont allés (aller) manger dans un Rodizio de sushis!  
+Malgré la pluie, ils ont passé (passer) une très bonne journée !
+**************************
+19/02/2022
+
+Page 13  
+
+La famille est partie en vacance, mais le chien est resté à la maison.  
+Ils s'amusaient beaucoup à la plage, à la maison de vacances, à la piscine. Mais, la petite-fille était triste. Elle est devenue heureuse quand elle a vu son chien.  
+
+La famille est partie en vacance et le chien est resté à la maison. Mais il est parti pour rencontrer sa famille.  
+
+
+Page 14
+
+1-  
+Qu'allez-vous faire ce soir ?  
+Je vais regarder un film sur Netflix.  
+Elle va aller dans uns bar avec une amie.  
+***
+Avez-vous des plans pour la fin de semaine ?  
+Non, je vais rester chez moi.  
+Oui, Ella va se promener avec sa amie au cartier.  
+***
+Il va faire chaud demain ?  
+Il va faire chaud demain.  
+Elle pense que va faire chaud demain.  
+***
+Quand allez-vous visiter le Québec ?  
+Je vais visiter le Québec l'année prochaine.  
+Elle pense que va visiter le Québec en 2024.  
+***
+Qu'allez-vous manger après le cours ?  
+Je vais prender le déjeuner.  
+Elle va aller au resto végétarien.  
+
+2-  
+a) Simon et Catherine terminent leurs devoirs. (vont terminer)  
+b) Je marche avec toi. (vais marcher)  
+c) Ils visitent Québec. (vont visiter)  
+d) Nous manquons le début du film. (allons manquer)  
+e) Éloic prend des photos au mariage de Louise. (va prendre)  
+f) Tu laves le char. (vas laver)  
+
+2-  
+Tu déménageras au Québec.  
+Tu seras très heureux.  
+Tu réussiras au TCF.  
+Tu partiras en vacances en Europe.  
+
+Page 15  
+3-  
+a) Que vas-tu faire pendant les vacances de Noël?  
+Que fairas tu pendant les vacances de Noël?  
+***
+b) Quand je vais être grand, je vais être médecin.  
+Quand je serais grand, je serais médecin.  
+***
+c) Nous allons aller chez grand-mère pour son 85e anniversaire.  
+Nous irons chez grand-mère pour son 85e anniversaire.  
+***
+d) Demain va être une journée très importante.  
+Demain sera une journée très importante.  
+***
+e) Est-ce que tu vas pouvoir m'aider?  
+Est-ce que tu pourras m'aider?  
+
+4-  
+a) Quand est-ce que tu viendras (venir) à Montréal?  
+b) Les boutiques commenceront (commencer) leur processus d'embauche en septembre.  
+c) Nous habiterons (habiter) ensemble, nous se marieront (se marier) et nous aurons (avoir) beaucoup d'enfants.  
+d) Votre colis vous sera (être) expédié dans moins de 5 jours.  
+f) Nous célébrerons (célébrer) le Carnaval.  
+
+5-  
+Je vois que vous serez très riche, vous marierez et voyagerez autour du monde et pour finir vous aurez des enfants.  
+
+6-  
+Dans 5 ans je déménagerais au Canada et j'irais vivre une vie très calme et tranquille.  
+
+Exercises complémentaires 
+***
+Tu déménageras au Québec.  
+Tu seras très heureux.  
+Tu réussiras au TCF.  
+Tu partiras en vacances en Europe.  
+
+Pour combattre votre timidité  
+Pratiquez votre oralité avec vous même.  
+Parlez plus fort.  
+
+Pour oublier vos chagrins d'amour  
+Boirez beaucoup.  
+Trouvez l'autre amour.  
+
+Pour ne pas devenir trop autoritaire  
+Soyez patient.  
+Mettez-vous à la place des autres.  
+
+Pour éviter la mauvaise humeur  
+Faites du sport.  
+Riez plus.  
+
+Pour éviter des réactions trop impulsives  
+Soyez calme.  
+Respirez avant d'agir.
+
+
+Page 17  
+
+6-  
+|Sujet|Être|Avoir|Aller|Pouvoir|Voir|Devoir|
+|:-----:|:------:|:------:|:-----:|:------:|:--------:|:-----:|
+|Je|serais|aurai|irai|pourrai|verrai|devrai|
+|Tu|seras|auras|iras|pourras|verras|devras|
+|Il|sera|aura|ira|pourra|verra|devra|
+|Nous|serons|aurons|irons|pourrons|verrons|devrons|
+|Vous|serez|aurez|irez|pourrez|verrez|devrez|
+|Ils|seront|auront|iront|pourront|verront|devront|
+
+***
+
+|Sujet|Vouloir|Savoir|Venir|
+|:-----:|:------:|:------:|:-----:|
+|Je|voudrai|saurai|viendrai
+|Tu|voudras|sauras|viendras
+|Il|voudra|saura|viendra
+|Nous|voudrons|saurons|viendrons
+|Vous|voudrez|saurez|viendrez
+|Ils|voudront|sauront|viendront
+
+7-  
+a) Ce soir nous allons regarder(regarder) la partie de hockey chez des amis.  
+b) Est-ce que tu vas participer (participer) aux 24h de Tremblant?  
+c) Le spectacle de Ti-Jo va avoir lieu (avoir lieu) dans 4 jours.  
+d) Mes parents vont vendre (vendre) la maison familiale.  
+e) L'hiver prochain, nous allons skier (skier) dans l'Ouest canadien.  
+f) On va faire (faire) le grand ménage au printemps.  
+g) Bientôt, les étudiants vont parler (parler) français.  
+h) Je ne vais pas boire (ne pas boire) en fin de semaine car je vais conduire (conduire).  
+
+8-  
+a) Nous allons faire une fête. Invite (Inviter/tu) tous tes amis.  
+b) Vous êtes prêts? Allons (Aller/nous)-y!  
+c) Attention! Soyez (Être/vous) très attentifs.  
+d) Mesdames et messieurs, Voulez (Vouloir/vous) éteindre votre cellulaire.  
+e) Ayez (Avoir/vous) en mains, votre passeport ouvert à la page photo.  
+f) Tiens (Tenir/tu), ton café! Fais (Faire/tu) attention, il est très chaud.  
+g) Winnie! Winnie! Viens (Venir/tu) ici mon chien!  
+h) Wow! Regardez (Regarder/vous)! Une baleine à bosse.  
+i) Aidons (Aider/nous) les réfugiés syriens.  
+j) Sauvons (Sauver/nous) l'environnement!  
+
+
+
+
+
+
