@@ -5,13 +5,12 @@ Fagner Geraldes Braga
 de 12/02/2022 jusqu'à 19/02/2022    
 ********************************
 Page 9
-
 1. Présentez-vous.  
 Je m'appelle Fagner. J'habite à Guarulhos. J'ai 37 ans et je suis marié. Je travaille avec la technologie de l'information.
 **************************
 2. Racontez votre journée d'hier.  
-Hier, je me suis réveillé à six heures, je me suis habillé et ensuite j'ai pris mon petit-déjeuner. Après, je suis allé au boulot.   
-J'ai travaillé de huit heures jusqu'à dix-sept heures, mais j'ai fait une pause pour déjeuner à quatorze heures.  
+Hier, je me suis réveillé à six heures, je me suis habillé et ensuite j'ai pris mon déjeuner. Après, je suis allé au boulot.   
+J'ai travaillé de huit heures jusqu'à dix-sept heures, mais j'ai fait une pause pour dîner à quatorze heures.  
 Quand j'ai fini mon travail, je suis allé au cours technique de technologie de l'information. J'ai étudié de dix-neuf heures jusqu'à vingt-deux heures.  
 Enfin, je suis rentré chez moi et là j'ai pris une douche, mangé quelque chose et je me suis couché.  
 **************************
@@ -22,7 +21,7 @@ Je travaille au Conselho Regional de Farmácia do Estado de São Paulo au dépar
 Ma pièce préférée à la maison est une chambre que j'utilise comme un bureau. Dans cette pièce il y a une table spacieuse et mon ordinateur.
 **************************
 5. Quel bruit détestez-vous ?  
-Je déteste quand les motards font trop de bruit avec leurs moto.
+Je déteste quand les motards font trop de bruit avec leurs motos.
 **************************
 6. Quel est votre plus grand rêve ?    
 Je voudrais voyager autour du monde.
@@ -34,13 +33,13 @@ Je ne sais pas. Je lis peu en fait. J'aimais J.K. Rowling et la série Harry Pot
 Métro, boulot, dodo. Et école. mdr
 **************************
 9. Quel est votre sport préféré ?  
-Aujourd'hui je ne pratique pas de sport, mais j'aime le football et faire du vélo, du jogging et de la natation.
+Aujourd'hui je ne pratique pas de sport, mais j'aime le football, faire du vélo, du jogging et de la natation.
 **************************
 10. Parlez-moi de votre routine durant la fin de semaine.  
-À la fin de la semaine, je fais les tâches ménagers, je vais au supermarché, j'étudie, je regarde des films et parfois je vais au resto, rendre visite chez mes amis, chez ma mère et ma famille.
+À la fin de la semaine, je fais les tâches ménagers, je vais au supermarché, j'étudie, je regarde des films et parfois je vais au resto, rendre visite chez mes amis, chez ma mère et chez ma famille.
 **************************
 11. Quel est votre moment préféré de la journée ?  
-J'aime la matinée. Je pense que j'aie beaucoup d'énergie pendant le matin.
+J'aime la matinée. Je pense que j'ai beaucoup d'énergie pendant le matin.
 **************************
 12. Êtes-vous un lève-tôt ou un lève-tard ?  
 Je suis vraiment un lève-tôt. Pendant la soirée je me sens fatigué.
@@ -125,10 +124,10 @@ Vous mangez
 Ils/Elles mangent  
 **************************
 4-
-Salut Juliana, Je suis heureux d'avoir de tes nouvelles ! J'ai une très belle nouvelle pour te raconter.   
+Salut Juliana, Je suis heureux d'avoir de tes nouvelles ! Moi,j'ai aussi une très belle nouvelle pour te raconter.   
 Je vais déménager dans un autre appartement. Il est très spacieux et confortable.   
 Il y a trois chambres, un grand balcon et c'est très près du centre-ville.   
-La semaine dernière j'ai regardé un concert à Sala São Paulo. C'était génial.   
+La semaine dernière, j'ai regardé un concert à Sala São Paulo. C'était génial.   
 En plus, je veux lui rendre visite bientôt.   
 Tu me manques beaucoup.   
 Un gros bisous.   
@@ -200,7 +199,7 @@ Vous êtes restés combien de temps à Québec?
 c) Les amis de Julien sont (parti) très tard hier.  
 Les amis de Julien sont partis très tard hier.
 **************************
-d) Est-ce que tu sais quand ils ont revenu?  
+d) Est-ce que tu sais quand ils (ont) revenu?  
 Est-ce que tu sais quand ils sont revenus?
 **************************
 e) Quand nous (avons) arrivé, ils sont partis.  
@@ -231,7 +230,7 @@ quelles activités physiques pratiquiez-vous ?
 Je pratiquais du football, je faisais du vélo et du jogging.
 **************************
 aimiez-vous votre école ?  
-Je n'aimais pas m'école parce que je n'amais pas d'étudier.
+Je n'aimais pas mon école parce que je n'aimais pas d'étudier.
 **************************
 où habitiez-vous ? avec qui ?  
 J'habitais à Guarulhos avec ma famille.
@@ -251,7 +250,7 @@ d) Mes parents ont une grande maison près de la rivière.
 Mes parents avaient une grande maison près de la rivière.
 **************************
 e) Parfois, j’aime rester seul à la maison et lire un livre.  
-Parfois, j'amais rester seul à la maison et lire un livre.
+Parfois, j'aimais rester seul à la maison et lire un livre.
 **************************
 f) De temps en temps, les ours viennent fouiller dans nos poubelles.  
 De temps en temps, les ours venaient fouiller dans nos poubelles.
@@ -276,7 +275,7 @@ Page 16
 |:-----:|:------:|:------:|:-----:|:------:|:--------:|:-----:|
 |Je|nais|vaux|fais|prends|grandis|connais|
 |Tu|nais|vaux|fais|prends|grandis|connais|
-|Il/Elle/On|nait|vaut|fait|prend|grandit|connait|
+|Il/Elle/On|naît|vaut|fait|prend|grandit|connaît|
 |Nous|naissons|valons|faisons|prenons|grandissons|connaissons|
 |Vous|naissez|valez|faites|prenez|grandissez|connaissez|
 |Ils/Elles|naissent|valent|font|prennent|grandissent|connaissent|
@@ -348,7 +347,7 @@ d) Tu habites loin d'ici?
 Non, je n'habite pas loin d'ici.
 **************************
 e) Je peux entrer?  
-Non, Tu ne peux pas entrer.
+Non, tu ne peux pas entrer.
 **************************
 f) Ta blonde a aimé le nouveau film de Xavier Dolan? 
 Non, elle ne l'a pas aimé.
@@ -369,7 +368,7 @@ Malgré la pluie, ils ont passé (passer) une très bonne journée !
 19/02/2022
 
 Page 13  
-
+2-  
 La famille est partie en vacance, mais le chien est resté à la maison.  
 Ils s'amusaient beaucoup à la plage, à la maison de vacances, à la piscine. Mais, la petite-fille était triste. Elle est devenue heureuse quand elle a vu son chien.  
 
@@ -396,7 +395,7 @@ Je vais visiter le Québec l'année prochaine.
 Elle pense que va visiter le Québec en 2024.  
 ***
 Qu'allez-vous manger après le cours ?  
-Je vais prender le déjeuner.  
+Je vais prendre le déjeuner.  
 Elle va aller au resto végétarien.  
 
 2-  
@@ -416,7 +415,7 @@ Tu partiras en vacances en Europe.
 Page 15  
 3-  
 a) Que vas-tu faire pendant les vacances de Noël?  
-Que fairas tu pendant les vacances de Noël?  
+Que feras tu pendant les vacances de Noël?  
 ***
 b) Quand je vais être grand, je vais être médecin.  
 Quand je serais grand, je serais médecin.  
@@ -442,6 +441,16 @@ Je vois que vous serez très riche, vous marierez et voyagerez autour du monde e
 
 6-  
 Dans 5 ans je déménagerais au Canada et j'irais vivre une vie très calme et tranquille.  
+
+d) Conjuguez les verbes suivants à l'impératif présent
+
+Sujet|Être|Avoir|Aller|Faire|
+|:-----:|:------:|:------:|:-----:|:------:|
+|Tu|sois|aie|va|fais|
+|Nous|soyons|ayons|allons|faisons
+|Vous|soyez|ayez|allez|faites
+|
+
 
 Exercises complémentaires 
 ***
@@ -515,6 +524,28 @@ g) Winnie! Winnie! Viens (Venir/tu) ici mon chien!
 h) Wow! Regardez (Regarder/vous)! Une baleine à bosse.  
 i) Aidons (Aider/nous) les réfugiés syriens.  
 j) Sauvons (Sauver/nous) l'environnement!  
+
+POUR ALLER PLUS LOIN...  
+1.Événement important organisé chaque hiver dans la ville de Québec  
+Carnaval  
+2.Principal fleuve du Québec  
+St-Laurent  
+3.Adjectif signifiant ennuyant, inintéressant  
+Plate  
+4.Village amérindien qui était situé sur l’emplacement de l’actuelle ville de Québec  
+Stadaconé  
+5.Île située près de la ville de Québec  
+L’Île d’Orléans  
+6.Mot amérindien pour dire « bonjour »  
+Kuei  
+7.Adjectif ou nom signifiant très froid  
+Frette  
+8.Ce qui tombe du ciel quand il neige  
+Flocons  
+9.Communauté amérindienne située près de la ville de Québec  
+Wendake  
+10.Discuter, converser  
+Placote
 
 
 
