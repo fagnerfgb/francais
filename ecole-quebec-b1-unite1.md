@@ -2,46 +2,48 @@
 Course de Français - B1  
 Unité 1  
 Fagner Geraldes Braga    
-de 12/02/2022 jusqu'à 19/02/2022    
+Date de création: 10/02/2022  
+Mis à jour: 10/04/2022  
+Version: 0.04 
 ********************************
-Page 9
-1. Présentez-vous.  
+Page 9  
+1- Présentez-vous.    
 Je m'appelle Fagner. J'habite à Guarulhos. J'ai 37 ans et je suis marié. Je travaille avec la technologie de l'information.
 **************************
-2. Racontez votre journée d'hier.  
+2- Racontez votre journée d'hier.  
 Hier, je me suis réveillé à six heures, je me suis habillé et ensuite j'ai pris mon déjeuner. Après, je suis allé au boulot.   
 J'ai travaillé de huit heures jusqu'à dix-sept heures, mais j'ai fait une pause pour dîner à quatorze heures.  
 Quand j'ai fini mon travail, je suis allé au cours technique de technologie de l'information. J'ai étudié de dix-neuf heures jusqu'à vingt-deux heures.  
 Enfin, je suis rentré chez moi et là j'ai pris une douche, mangé quelque chose et je me suis couché.  
 **************************
-3. Décrivez votre milieu de travail.  
+3- Décrivez votre milieu de travail.  
 Je travaille au Conselho Regional de Farmácia do Estado de São Paulo au département de technologie. Je suis un employé publique.  
 **************************
-4. Quelle est votre pièce préférée à la maison ? Pourquoi ?  
+4- Quelle est votre pièce préférée à la maison ? Pourquoi ?  
 Ma pièce préférée à la maison est une chambre que j'utilise comme un bureau. Dans cette pièce il y a une table spacieuse et mon ordinateur.
 **************************
-5. Quel bruit détestez-vous ?  
+5- Quel bruit détestez-vous ?  
 Je déteste quand les motards font trop de bruit avec leurs motos.
 **************************
-6. Quel est votre plus grand rêve ?    
+6- Quel est votre plus grand rêve ?    
 Je voudrais voyager autour du monde.
 **************************
-7. Quels sont vos auteurs favoris ?  
+7- Quels sont vos auteurs favoris ?  
 Je ne sais pas. Je lis peu en fait. J'aimais J.K. Rowling et la série Harry Potter.
 **************************
-8. Parlez-moi de votre routine.  
+8- Parlez-moi de votre routine.  
 Métro, boulot, dodo. Et école. mdr
 **************************
-9. Quel est votre sport préféré ?  
+9- Quel est votre sport préféré ?  
 Aujourd'hui je ne pratique pas de sport, mais j'aime le football, faire du vélo, du jogging et de la natation.
 **************************
-10. Parlez-moi de votre routine durant la fin de semaine.  
+10- Parlez-moi de votre routine durant la fin de semaine.  
 À la fin de la semaine, je fais les tâches ménagers, je vais au supermarché, j'étudie, je regarde des films et parfois je vais au resto, rendre visite chez mes amis, chez ma mère et chez ma famille.
 **************************
-11. Quel est votre moment préféré de la journée ?  
+11- Quel est votre moment préféré de la journée ?  
 J'aime la matinée. Je pense que j'ai beaucoup d'énergie pendant le matin.
 **************************
-12. Êtes-vous un lève-tôt ou un lève-tard ?  
+12- Êtes-vous un lève-tôt ou un lève-tard ?  
 Je suis vraiment un lève-tôt. Pendant la soirée je me sens fatigué.
 **************************
 
