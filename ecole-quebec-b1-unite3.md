@@ -143,12 +143,78 @@ Comme c’est mon premier achat avec vous et que j’ai besoin de bottes qui soi
 Elle est retournée chez Latullipe, après elle a téléphoné au service client et pour finir, elle a envoyé un courriel a l'entreprise.  
 
 
+Page 36  
+Lisez le texte et donnez-lui un titre.  
+Le Carnaval québécois  
+
+a) Pourquoi les habitants se réunissaient-ils ?  
+Ils avaient pris l’habitude de se réunir pour fêter un bon coup, juste avant la période du Carême.  
 
 
+b) Pourquoi le Carnaval a-t-il été interrompu ?  
+Parce qu'il y a eu les deux guerres mondiales et la grande crise économique de 1929.  
 
 
+c) Grâce à qui le Carnaval a-t-il repris vie ?  
+En 1954, dans une perspective de développement économique de la Vieille Capitale, un groupe de gens d’affaires relance la fête.  
 
 
+d) À quelles activités pouvons-nous participer au Carnaval de Québec ?  
+On a ajouté aux activités populaires que sont les sports d’hiver, la sculpture sur neige et autres, des activités puisées dans le mode de vie folklorique québécois, comme la course en canot et la course en traîneaux à chiens.  
+
+2- Regardez la vidéo « Carnaval de Québec » et notez les activités touristiques que vous voyez. Puis, échangez.  
+
+Aimeriez-vous y participer ?  
+Oui, je pense que c'est un événement très différent.  
+
+À quelles activités aimeriez-vous participer ?  
+Je voudrais visiter l'hôtel de glace, glisser dans la neige avec le traîneau, patiner, manger du sirop d'érable
+
+3- Écoutez le message téléphonique laissé par Vincent.  
+a) Quel est l’objectif du message ?  
+Vincent a invité ses amis pour aller au carnaval de Québec.  
+
+b) Qui est invité ?  
+Laurence.  
+
+c) Où et quand a lieu l’événement ?  
+L'événement a lieu la semaine prochaine à la Ville de Québec.  
+
+d) Où et quand vont-ils se rencontrer ?  
+Ils vont se rencontrer devant le dépanneur à midi.  
+
+4- Réécoutez le message.  
+
+a) Où Vincent va-t-il s’héberger ?  
+Il va s'héberger au l'hôtel Chateau Bellevue.  
+
+b) Quelles activités propose-t-il à ses amis ?
+Il propose faire de la course en canot ou de la course en traîneaux à chiens.  
+
+c) Que demande-t-il à Laurence ?
+Si il peut laisser son chien chez Laurence.  
+
+Page 37  
+
+1- Lisez le message de Marc ci-dessous et remettez les faits de son message en ordre chronologique.  
+(2) le Carnaval de Rio  
+(3) l’arrivée à Québec  
+(1) la découverte du Carnaval de Québec  
+(4) le rêve de connaître le Québec  
+
+2- Relevez les phrases correspondant aux quatre événements de l’exercice précédent.  
+
+Le Carnaval de Rio  
+Vous souvenez-vous que quand nous étions petits, maman nous nous emmenait tous les étés à Rio de Janeiro pour voir les défilés du Carnaval ?  
+
+La découverte du Carnaval de Québec  
+Quand j’étais à l’université, j’ai découvert qu’il y avait un Carnaval d’hiver à Québec.  
+
+Le rêve de connaître le Québec  
+Je rêvais d’y aller, je regardais les photos sur le site, je faisais des recherches sur les sports d’hiver...    
+
+L’arrivée à Québec  
+Je suis arrivé à Québec la semaine dernière.  
 
 
 Lisez et reformulez les conseils avec Il faut (absolument) que.../ Il est indispensable que.../Il ne faut pas que... + subjonctif :
@@ -159,6 +225,13 @@ Lisez et reformulez les conseils avec Il faut (absolument) que.../ Il est indisp
 4-)Il est indispensable qu'on écoute les autres.
 5-)Il faut que vous voyiez le bon côté des choses.
 6-)Il faut qu'on fasse du yoga.
+
+5- Échangez en petits groupes.  
+Connaissez-vous le Québec ? Avez-vous déjà voyagé à l’étranger ? Racontez votre meilleur voyage.  
+
+Je connais le Québec. J'y suis allé là en 2016. 
+En 2014, j'ai voyagé au Canada et j'ai eu l'opportunité de connaître des Montagnes Rocheuses.  
+Les paysages étaient étonnantes. Je suis allé de Vancouver à Banff dans le bus avec beaucoup d'étudiants. Nous avons visité le Lac Morraine et le Lac Louise. C'était le quatre jours le plus mémorable que je peux penser en ce moment.    
 
 
 Si vous allez à ce pays, il faut que vous preniez du crème solaire.
