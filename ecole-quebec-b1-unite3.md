@@ -3,8 +3,8 @@ Course de Français - B1
 Unité 3  
 Fagner Geraldes Braga    
 Date de création: 10/04/2022  
-Mis à jour: 10/04/2022  
-Version: 0.01  
+Mis à jour: 23/04/2022  
+Version: 0.02  
 **************************
 Page 31  
 Parlons ensemble de... météo !   
@@ -144,7 +144,7 @@ Elle est retournée chez Latullipe, après elle a téléphoné au service client
 
 
 Page 36  
-Lisez le texte et donnez-lui un titre.  
+1- Lisez le texte et donnez-lui un titre.  
 Le Carnaval québécois  
 
 a) Pourquoi les habitants se réunissaient-ils ?  
@@ -217,25 +217,148 @@ L’arrivée à Québec
 Je suis arrivé à Québec la semaine dernière.  
 
 
-Lisez et reformulez les conseils avec Il faut (absolument) que.../ Il est indispensable que.../Il ne faut pas que... + subjonctif :
+Lisez et reformulez les conseils avec Il faut (absolument) que.../   Il est indispensable que.../Il ne faut pas que... + subjonctif :  
 
-1-)Pour lutter controle la nostalgie, Il faut que vous cessiez de regretter le passé.
-2-)Il est indispensable que vous sortiez de votre coquille.
-3-)Il faut qu'on parte en voyage.
-4-)Il est indispensable qu'on écoute les autres.
-5-)Il faut que vous voyiez le bon côté des choses.
-6-)Il faut qu'on fasse du yoga.
+1-)Pour lutter controle la nostalgie, Il faut que vous cessiez de regretter le passé.  
+2-)Il est indispensable que vous sortiez de votre coquille.  
+3-)Il faut qu'on parte en voyage.  
+4-)Il est indispensable qu'on écoute les autres.  
+5-)Il faut que vous voyiez le bon côté des choses.  
+6-)Il faut qu'on fasse du yoga.  
 
-5- Échangez en petits groupes.  
-Connaissez-vous le Québec ? Avez-vous déjà voyagé à l’étranger ? Racontez votre meilleur voyage.  
+5- Échangez en petits groupes.    
+Connaissez-vous le Québec ? Avez-vous déjà voyagé à l’étranger ? Racontez votre meilleur voyage.    
 
-Je connais le Québec. J'y suis allé là en 2016. 
-En 2014, j'ai voyagé au Canada et j'ai eu l'opportunité de connaître des Montagnes Rocheuses.  
+Je connais le Québec. J'y suis allé là en 2016.   
+En 2014, j'ai voyagé au Canada et j'ai eu l'opportunité de connaître des Montagnes Rocheuses.    
 Les paysages étaient étonnantes. Je suis allé de Vancouver à Banff dans le bus avec beaucoup d'étudiants. Nous avons visité le Lac Morraine et le Lac Louise. C'était le quatre jours le plus mémorable que je peux penser en ce moment.    
 
 
-Si vous allez à ce pays, il faut que vous preniez du crème solaire.
-Pour ne pas s'ennuyer pendant un voyage à ce pays, il est important de visiter une plage peuplée.
-Pour aller à une plage de ce pays, il est essentiel de faire de réservation en avance parce que si vous le faire pendant la dernière minute, il n'y aura pas d'hébergement disponible.
+Si vous allez à ce pays, il faut que vous preniez de la crème solaire.  
+Pour ne pas s'ennuyer pendant un voyage à ce pays, il est important de visiter une plage peuplée.  
+Pour aller à une plage de ce pays, il est essentiel de faire de réservation en avance parce que si vous le faire pendant la dernière minute, il n'y aura pas d'hébergement disponible.    
+
+7- Écoutez le témoignage de Vincent et répondez.  
+Pourquoi est-il parti à l'étranger ?  
+Il est parti à l'étranger parce qu'il est allé étudier à l'université de Sherbrooke.  
+
+Pourquoi a-t-il choisi Sherbrooke ?  
+Parce qu'il voulais étudier dans une ville de taille moyenne et la réputation de l'université de Sherbrooke lui a convaincu.  
+
+Page 38  
+
+1- Lisez la quatrième de couverture de l’ouvrage « Chronique de la dérive douce » de Dany Laferrière et répondez aux questions.  
+
+a) Qui est l'auteur et quelle est son origine ?  
+L'auteur s'appelle Dany Laferrière et il est Haïtien.  
+
+b) Que raconte-t-il dans ce roman ?  
+Ce roman raconte l’arrivée d’un jeune Haïtien dans la métropole québécoise au milieu des années 1970.  
+
+c) Qu’imaginez-vous trouver dans ce roman ?  
+Je pense qu'il va raconter son histoire et les différences qu'il y a entre L'Haiti et le Canada.  
+
+3- Complétez:
+
+Il s’inquiète de tout, alors que nous sommes très tranquilles.  
+Ce pays est très ouvert. En revanche il fait très froid là-bas.  
+Le roman est long, pourtant il est très passionnant.  
+
+4- Créez des énoncés qui expriment l’opposition ou la concession à partir des paires de verbes.  
+
+Je ne fais pas beaucoup d’argent, mais j’aime mon travail.  
+
+Malgré il pleut, j’ai besoin de sortir chez moi pour aller au travail.
+
+Bien que je veuille visiter au Canada le mois prochain, je ne peux pas y aller.
+
+Je porte des gants, même si je ne porte pas de bonnet. 
+
+Même si je ne parle pas bien le français, je me fais comprendre. Je me débrouille bien.
+
+Je croyais avoir raison, mais malheureusement je me suis trompé.
+
+5- La parole est à vous !  
+
+Pensez aux craintes qu’ont les personnes désireuses d’immigrer. Exprimez les «pour» et les «contre» en utilisant la concession.
+
+Même s'il fait très froid au Québec, il y a des vêtements appropriés pour rester chaud.  
+
+Bien que il y ait des plages au Brésil, il y a des sports d'hiver au Canada.
+
+Malgré leur différences, le Brésil et le Canada sont les deux pays que j'aime.  
+
+Page 39  
+
+1- Vous allez partir au Québec et vous contactez vos hôtes pour leur demander des précisions sur chaque saison et découvrir le bon moment pour votre arrivée.  
+
+En automne, pleut-il beaucoup ? (assez peu)  
+Dans l’automne il pleut assez peu ici.  
+
+En été, fait-il beau tout le temps ? (fréquemment)  
+Heureusement, il fait beau fréquemment ici.  
+
+En hiver, neige-t-il tous les jours ? (souvent)  
+Pendant l’hiver il neige souvent ici.  
+
+Au printemps, les queues pour les parcs d’attractions sont-elles grandes ? (Extrêmement)  
+Les queues sont extrêmement grandes au printemps.
+
+La formation des adverbes  
+a) Réfléchissez et associez les règles aux exemples :  
+L’adverbe est formé par :  
+1- l’adjectif féminin + « ment »  
+2- l’adjectif masculin (en e, é, i, u) + « ment »  
+3- l’adjectif masculin (en ent) - « ent » + « emment »  
+4- l’adjectif masculin (en ant) - « ant » + « amment »  
 
 
+|1|2|
+|:--|:--|  
+|(2) lent - lentement|(1) rapide - rapidement| 
+|(1) heureuse - heureusement|(1) extrême - extrêmement|   
+|(4) brillant - brillamment|(2) prudent - prudemment|    
+|(3) récent - récemment|(1) forte - fortement|  
+|(2) joli - joliment|(4) courant - couramment|
+
+2- Vos hôtes continuent à vous donner des conseils pratiques.  
+Complétez les conseils avec la formation des adverbes correspondants.  
+
+Pour vivre ici, il faut parler français (courant) couramment, appliquer pour le visa et l’attendre (patient) patiemment.  
+
+• Si vous conduisez, il faut le faire (prudent) prudemment. Pour chercher un logement, l’idéal c’est de prendre le temps de les visiter (tranquille) tranquillement.  
+
+• Ne vous inquiétez pas, car les gens s’y adaptent (rapide et facile) rapidement et facilement.
+
+Les expressions pour parler de la météo  
+
+Les Québécois adorent parler de la météo et quand ils en parlent, ils utilisent beaucoup d’expressions.  
+Trouvez la signification de chaque expression de la colonne de gauche en les jumelant à une proposition de la colonne de droite.  
+
+a) En avril, ne te découvre pas d’un fil / 11. N’enlève pas
+précocement tes vêtements.
+
+b) Il pleut à boire debout / 1. Il pleut énormément.
+
+c) Il tombe des cordes / 6. Il pleut intensément.
+
+d) Il fait un froid de canard / 5. Il fait très froid.
+
+e) Il fait frette / 2. Il fait extrêmement froid.
+
+f) Il vente à décorner les boeufs / 7. Il vente violemment.
+
+g) Un temps de chien / 3. Un très mauvais temps.
+
+h) Un soleil de plomb / 10. Le soleil est excessivement chaud.
+
+i) Une vague de froid / de chaleur / 8. Quand on a plusieurs journées très chaudes/ froides qui se suivent.
+
+j) Il mouille à siaux / 4. Il pleut beaucoup.
+
+k) Crever de chaleur / 9. Un temps mortellement chaud.
+
+Page 42  
+
+En Janvier 1998 une tempête de glace s'est abattue sur le sud du Québec. Des milliers de foyers ce sont retrouvés sans lumières et sans chauffages pendant plus d'un mois. Dans les jours qui ont précédé la crise, personne ne se doutait de ce qui allait se passer. Le lundi 5 janvier 1998, on a envoyé à la population en simple avertissement météo. "On attend de dix a vingt mm de pluie verglaçante, donc ça pourrait causer des problèmes sur la route".
+Mais entre le 5 et le 10 janvier, il est tombé 5 fois plus d'eau que ce qui avait été prévu, jusqu'a 100mm. Toute ces accumulations se sont transformées en glace, entraînant la pire tempête de verglas de l'histoire canadienne. Les branches d'arbres sont tombées sur fils électriques, ce qui a provoqué d'importants courts circuits. Les écoles et les garderies ont été fermées, les routes étaient quasiment impraticables. Parents et amis se sont tendu la main. Des dizaines de milliers de personnes on trouvé refuges dans les centres d'hébergement.
