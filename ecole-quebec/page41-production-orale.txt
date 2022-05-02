@@ -1,0 +1,35 @@
+Vous êtes propriétaire d’une maison et vous décidez d’appeler une entreprise de déneigement afin de faire déneiger votre entrée l’hiver prochain. Avec un ou une
+camarade de classe, simulez une conversation téléphonique entre vous et l’entreprise qui offre un service de déneigement résidentiel.
+Durant votre conversation téléphonique, vous devez obtenir les renseignements suivants :
+
+- la durée du contrat ;
+- l’heure de déneigement prévue ;
+- les conditions posées (où doit-on garer l’auto ? faut-il installer des poteaux indicateurs ?) ;
+- la totalité des frais exigés ;
+- le mode de paiement ;
+- la responsabilité en cas de dommage.
+
+A: Entreprise de déneigement Bonhomme hiver. Bonjour. Je m'appelle Christine Tristan. Comment je peux vous aider ?
+B: Bonjour Madame Tristan. J'habite à Sherbrooke et je cherche le service de déneigement résidentiel.
+A: D'accord, Monsieur. Je voudrais savoir votre addresse et votre nom, s'il vous plaît.
+B: J'habite à  2525 Rue Galt O et je m'appelle Mauricie Legrand.
+A: Une minute, s'il vous plaît. Je vais vérifier si le service est disponible à votre addresse.
+Quelques minutes plus tard.
+A: Voilà. Nous nous occupons de votre quartier.
+B: C'est bon. J'habitais au Brésil et je ne connais pas bien le service. Pouvez-vous m'expliquer ?
+A: Bien sur. Qu'est-ce que vous voulez savoir ?
+B: Votre entreprise déneige l'entrée de ma maison tous les jours pendant l'hiver ?
+A: En géneral, nous travaillons les jours qu'il neige.
+B: D'accord. Quelle est la durée du contrat ?
+A: Nous avons trois types de contrats. Il y a des contracts de 1 an, 2 ans et 3 ans.
+B: A quelle heure vous irez déneiger l'entrée de ma maison ?
+A: Nous déneigeons des maisons pendant la nuit.
+B: J'ai besoin de garer mon char dans une lieu ?
+A: Nous vous conseillons à garer votre char le plus proche possible de la porte de votre maison.
+B: Je pense que je vais choisir le contrat d'un an por bien connaître le service. Ça coutera combien ?
+A: Ça coute 500 dolar et vous puvez paier en espèces ou avec la carte de crédit.
+B: En cas de dommage, qui sera responsable ?
+A: Quand il y a quelque type de dommage, le propriétaire a la responsabilité, mais il y a une assurance pour le protéger.
+B: C'est bon. Je vous remercie pour toutes les informations. Bonne journée.
+A: Il n'y pas de quoi. Bonne journée. 
+
