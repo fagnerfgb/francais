@@ -55,7 +55,7 @@ b) Je ne savais pas que vous ne mangiez pas de viande. Je vous ai préparé de l
 c) Ma première blonde n’était pas québécoise, nous avons rompu parce qu’elle est partie du Québec.  
 d) Avant, je n’allais pas souvent au Carnaval de Québec.  
 e) Tu as arrêté de fumer ?  
-f) Nous étions à Toronto et nous avons passé Noël avec les parents de mon chum.  
+f) Nous sommes allés à Toronto et nous avons passé Noël avec les parents de mon chum.  
 
 8- Complétez les phrases en conjuguant les verbes entre parenthèses au plus-que-parfait.  
 

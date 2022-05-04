@@ -194,6 +194,29 @@ Il propose faire de la course en canot ou de la course en traîneaux à chiens.
 c) Que demande-t-il à Laurence ?
 Si il peut laisser son chien chez Laurence.  
 
+5- La parole est à vous !
+Quelle joie ! Vous venez tout juste d’acheter vos billets d’avion ! Ça y est ! Vous allez passer une partie
+des mois de janvier et février au Québec ! Vous avez entendu parler du Carnaval de Québec et vous aimeriez y participer.
+
+Salut Robert !
+J’espère que tu vas bien.
+La dernière fois que nous nous sommes rencontrés, nous avons beaucoup parlé du Carnaval de Québec.
+Voilà. J’ai décidé que j’irai au Canada l’année prochaine pour bien connaître le festival d’hiver.
+Je voudrais l’inviter à voyager avec nous.
+J’ai déjà trouvé des informations sur internet et je vais les partager avec toi.
+Le festival va se passer du 29 janvier au 14 février. Nous pouvons partir du Brésil le 28 janvier et y retourner le 5 février. 
+Nous allons nous héberger dans le Fairmont Le Château. C’est un hôtel incroyable dans le cœur de Vieux Québec. L’hôtel est cher, mais il vaut chaque sou (centime).
+Nous pouvons manger de délicieuses nourritures italiennes dans le Ristorante Il Teatro. Il y a aussi la Rôtisserie St-Hubert que nous pouvons essayer.
+j'ai hâte de patiner sur la glace et pour faire la glissade sur tube, mais je suis très curieux de pêcher sur la glace.
+Nous avons l’opportunité de connaître l’hôtel de glace qui sera construit spécialement pour le Carnaval. 
+Alors, on y va ?!
+Je suis sûr que ce voyage sera inoubliable.
+
+Salut.
+
+Fagner
+
+
 Page 37  
 
 1- Lisez le message de Marc ci-dessous et remettez les faits de son message en ordre chronologique.  
