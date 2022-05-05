@@ -1,0 +1,56 @@
+Vous habitez une maison ou un appartement ?
+J'habite dans un appartement.
+
+Comment est votre maison / appartement ?
+Mon appartement est spacieux.
+Il y a un salle de séjour, une salle à manger, un bureau, une chambre, une cuisine et une salle de bain.
+
+1 Quel est le nom de l’objet et dans quelle pièce de la maison se trouve-t-il ?
+
+1. La baignoire - la salle de bain
+
+2. Le lit, des oreillers, la lampe - la chambre
+
+3. La table, des chaises, des assiettes, des verres - la salle à manger
+
+4. La voiture - Le garage
+
+5. La machine à laver - La cuisine
+
+6. La commode - La chambre
+
+7. La cuisinière - La cuisine
+
+8. Les placards - La chambre
+
+9. L'évier, le robinet, les placards - La cuisine
+
+02 Qu’est-ce qu’il y a ?
+
+1. Dans la salle de bain: La baignoire, le lavabo, les toilettes, la douche, le miroir, les placards
+
+2. Dans le salon : le canapé, le fauteuil, la télé, les placards, le tapis, la table basse
+
+3. Dans la chambre à coucher: Le lit, le tapis, l'oreiller, les placards, la table de chevet, les armoires
+
+4. Dans la cuisine: La cuisinière, le four, l'évier, le robinet, la table, les chaises
+
+03 Traduisez pour le français les phrases suivantes:
+
+1. Meus avós moram no campo e a casa deles é muito linda com um lindo jardim!
+Mes grands-parents habitent à la campagne et leur maison est très jolie avec un beau jardin.
+
+2. Eu moro em um apartamento no centro da cidade. Meu apartamento é no segundo andar.
+J'habite dans un appartement au centre ville. Mon appartement est au deuxième étage.
+
+3. Meu professor não mora em Paris e a casa dele é muito pequena.
+Mon professeur n'habite pas à Paris et sa maison est très petite.
+
+4. Minha casa tem 6 cômodos: dois quartos, uma sala pequena, um banheiro, uma cozinha e um escritório.
+Ma maison a six pièces : deux chambres, un salon petit, une salle de bain, une cuisine et un bureau.
+
+5. No quarto da minha filha tem duas camas, um tapete, uma cômoda e um armário.
+Dans la chambre de ma fille il y a deux lits, un tapis, une commode et un armoire.
+
+6. Eu preciso comprar uma nova máquina de lavar e um forno para minha cozinha.
+J'ai besoin d'acheter une nouvelle machine à laver et un four pour ma cuisine.

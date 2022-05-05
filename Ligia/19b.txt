@@ -1,0 +1,20 @@
+01 Imaginez quevous allezvoyager et répondez aux questions au guichet :
+
+1. Bonjour, vous voulez voyager où ?
+Bonjour, je vais à Strasbourg.
+
+2. Quand vous voulez partir ? Quelle est la date de votre voyage ? 
+Le matin, l’après-midi ou le soir ?
+Je vais partir la semaine prochaine. Ça sera le dix mai 2022 le soir.
+
+3. Vous voyagez seul(e) ou accompagné(e) ? Combien de personnes ?
+Je voyage accompagné. Quatre personnes.
+
+4. Vous voulez un aller simple ou un aller-retour ?
+Je voudrais un aller-simple.
+
+5. En quelle classe vous voulez voyager ?
+Je voudrais voyager à la première classe.
+
+6. Vous allez payer comment ? En liquide ou par carte de crédit ?
+Je vais payer par carte de crédit.
