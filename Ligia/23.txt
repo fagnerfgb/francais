@@ -1,0 +1,25 @@
+01 Quelle est la maison / appartement qui correspond à chaque famille ?
+
+Annonce 1 = famille no 03
+Annonce 2 = famille no 04
+Annonce 3 = famille no 02
+Annonce 4 = famille no 01
+
+02 Faites la liste des fournitures (des objets) de la maison après les avoir écoutés :
+Dans la cuisine il y a: la cuisinière, le frigo, les placards, la table, les chaises, le four, l'évier, le robinet
+Dans la chambre il y a: le lit, les placards, l'oreiller, le tapis, la table de chevet, la commode
+Dans le bureau il y a: la table, les chaises, l'ordinateur, la lampe
+Dans la salle de bain il y a: La douche, le mirroir, le lavabo, les toilettes, les placards
+
+
+03 Je vais vous lire un texte et vous allez le retranscrire :
+
+Ma maison idéale est à la plage parce que j'aime la mer.
+Cette maison est ancienne, elle n'est pas très grande et il y a un beau jardin.
+Elle a deux étages avec une vue sur la mer.
+Ella a deux chambres et dans ma chambre il y a un grand lit, une armoire, un bureau, une télé et un tapis.
+Dans la maison il y a deux salles de bain. 
+Une salle avec des canapés, des fauteuils et une grande télévision.
+Dans la cuisine il y a un frigo, des placards et une table avec quatre chaises.
+Il y a un garage pour ma voiture.
+Je n'ai pas besoin de piscine parce que j'habite à la plage.
