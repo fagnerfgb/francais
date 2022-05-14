@@ -170,6 +170,8 @@ Il faut être capable de s'adapter à une autre culture.
 Il faut s'adapter au nouveau type de nourriture.
 Il faut faire attention aux règles du nouveau pays.
 
+Page 49
+
 6- Lisez le texte suivant, puis discutez-en.
 
 a) Quelles sont les difficultés mentionnées?
@@ -194,9 +196,22 @@ Je n'y vais pas souvent.
 c) Restez-vous à la maison si vous êtes enrhumé ?
 Avant la pandémie, je faisais toutes mes activités normalement. Maintenant, j'y reste pour ne pas contaminer les personnes.
 
+Page 51
 
+1- Écoutez la chanson et répondez.
 
+a) Quel est le thème de la chanson ?
 
+b) Son auteur est fâché ou enthousiaste ?
+Il est fâché.
+
+c) Quel est le but de la chanson ?
+C'est faire les gens réfléchir sur la question de consommation non seulement de l'eau mais de des choses en général.
+Il y a aussi une critique au capitalism et le manque de humanité dans la société
+
+d) Expliquez le dernier vers.
+Citoyens, l’avenir commence astheure
+Il est un appel pour les gens lutter contre des organisations et le gouvernement si on se veut 
 
 
 
