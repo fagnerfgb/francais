@@ -3,8 +3,8 @@ Course de Français - B1
 Unité 4  
 Fagner Geraldes Braga    
 Date de création: 13/05/2022 
-Mis à jour: 13/05/2022  
-Version: 0.01
+Mis à jour: 16/05/2022  
+Version: 0.02
 **************************
 
 1- Complétez les verbes avec à ou de.
@@ -131,16 +131,25 @@ c) On pourrait inviter nos amis à manger ce soir.
 11- Donnez un conseil. Tu devrais... Tu pourrais...
 
 a) Une abeille vient de me piquer.
-Tu pourrais aller chez le médecin.
+Tu devrais aller chez le médecin.
 
 b) Ma machine à laver est brisée.
 Tu devrais acheter une autre machine à laver.
 
 c) Je visiterai le Brésil le mois prochain.
-Tu porrais me rendre visite.
+Tu pourrais me rendre visite.
 
 d) Mon fils de 10 ans a vomi et a mal à la tête depuis hier.
 Tu devrais aller a l'hôpital.
 
 e) C'est dimanche et je ne sais pas quoi faire.
 Tu pourrais aller au parc.
+
+12- Complétez les phrases avec des actions futures.
+
+a) Je payerai dès que vous aurez choisi.
+b) Leur maison sera loué dès qu’ils auront déménagé.
+c) Je liserai quand vous aurez fini le dossier.
+d) J'attendrai tant que la loi n’aura pas été votée.
+e) Vous mangerez quand vous vous serez lavé les mains.
+f) Elle voyagera quand elle aura quitté l’hôpital.

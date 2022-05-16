@@ -3,8 +3,8 @@ Course de Français - B1
 Unité 4  
 Fagner Geraldes Braga    
 Date de création: 30/04/2022  
-Mis à jour: 30/04/2022  
-Version: 0.01  
+Mis à jour: 16/05/2022  
+Version: 0.04  
 **************************
 Page 43
 
@@ -51,7 +51,6 @@ Je voudrais avoir une saine alimentation, surtout à consommer moins de l'hambur
 
 Page 45
 2-
-
 a) Quelle critique pourrait-on faire à ce guide?
 Donnez votre opinion ou trouvez dans Internet une critique du Guide alimentaire canadien.
 Je suis d'accord avec le guide, mais je pense que ce n'est pas facile d'avoir une saine alimentation parce les gens travaillent beaucoup de temps, n'ont pas de temps et n'ont pas d'argent suffisant pour acheter des produits nécessaires pour avoir une bonne santé.
@@ -73,7 +72,6 @@ Qu’est-ce que l’infirmière recommande à Michel de faire avant de commencer
 Voir un professionnel de la santé.
 
 Page 46
-
 
 1- Observez l’affiche du documentaire québécois Québec sur ordonnance (2007), du réalisateur Paul Arcand.
 Faites des hypothèses à partir du titre.
@@ -201,6 +199,7 @@ Page 51
 1- Écoutez la chanson et répondez.
 
 a) Quel est le thème de la chanson ?
+La chanson parle de l’environnement et surtout de la question des ressources d’eau. En même temps, elle parle de l’avidité humaine. 
 
 b) Son auteur est fâché ou enthousiaste ?
 Il est fâché.
@@ -211,7 +210,199 @@ Il y a aussi une critique au capitalism et le manque de humanité dans la socié
 
 d) Expliquez le dernier vers.
 Citoyens, l’avenir commence astheure
-Il est un appel pour les gens lutter contre des organisations et le gouvernement si on se veut 
+Il est un appel pour les gens lutter contre des organisations et le gouvernement si on se veut...
+
+2 - Réécoutez la chanson. Relevez les phrases où on mentionne :
+
+La famine des petits : “Un enfant crève au tiers-monde”
+L’indifférence des peuples : “Mais l’Occident s’en lave encore les mains” 
+Le manque d’eau :  “Parce qu’y a pas accès à l’eau”
+La privatisation de l’eau : “D’accès à l’eau doit devenir commercial” / “Eau qui devient marchandise. Aqueducs qu’on privatise” 
+
+3 - Lisez les paroles de la chanson : 
+
+Quels mots qualifient l’être humain ?
+“salaud”
+
+Quel couplet est le plus ironique ?
+“Mais l’Occident s’en lave encore les mains” / “On nous dit qu’c’est inépuisable”
+
+Et le plus bouleversant ?
+“Tous les 8 secondes un nouveau cancer qui nous range”
+
+Page 54
+
+1- Échangez. Quelles demandes l’augmentation de la population mondiale projette sur l’avenir?
+Il y aura des problèmes avec de l'eau potable, des aliments, la pollution, etc.
+
+2- Lisez le texte suivant et complétez votre liste de projections.
+Il y a aura un stress hydrique, des sécheresses, la manque d'eau potable, des rationnement d'eau.
+
+3- Trouvez des définitions pour les mots suivants :
+
+estimations - action d'estimer, de déterminer la valeur, le prix qu'on attribue à une chose
+approvisionnement - faire de provisions, fournir en vue d’un consommation
+pénurie - carence, manque de ce qui est nécessaire.
+sécheresse - état de ce qui est sec, de ce qui manque d'humidité
+saisonnières = Relatif à une saison, à telle époque de l'année.
+rationnement = Action de rationner ; fait d'être rationné.
+crainte = Appréhension d'un danger, d'une douleur, d'un mal à venir 
+cri d'alarme = prévenir d'un danger 
+
+4- Visionnez la vidéo “Le Canada se réchauffe” et répondez : 
+
+a- Le Canada se réchauffe-t-il comme le reste du monde ? 
+Non, le Canada se réchauffe deux fois plus vite que le reste du monde.
+
+b- Quelles sont les projections pour le Canada ?
+Toutes les provinces et régions auront des conséquences du réchauffement climatique. 
+On aura plus de jours de canicule. 
+
+c- Pourquoi les mesures doivent-elles être prises au niveau mondial ? franglais
+Parce que le problème est dans une échelle globale. 
+
+Page 55
+
+6- Lisez les phrases. Dites si vous êtes d’accord.
+
+a) Le monde ira mieux quand on aura résolu les problèmes écologiques.
+Je suis d'accord avec la phrase, mais je pense que c'est difficile résoudre tous les problèmes écologiques
+
+b) 1,9 milliard de citadins auront été confrontés à des pénuries d’eau saisonnières en 2050.
+Il y aura beaucoup de gens qui auront été confrontés à des pénuries d'eau saisonnières en 2050, mais je ne suis pas sûr si ce chiffre est correct.
+
+c) Aussitôt que les ressources en eau douce auront été réduites, on boira de l’eau de la mer.
+Je suis d'accord.
+
+d) Une fois que les véhicules polluants auront été interdits, les habitants auront une meilleure santé.
+Je ne suis pas d'accord que les véhicules polluant auront été interdits.
+
+e) Dès que les populations auront été multipliées par deux, personne n’aura plus accès à l’eau.
+Je ne suis pas d'accord, mais ça sera plus difficile avoir accès à l'eau.
+
+8- Qu’aurez-vous accompli en 2050?
+En 2050, j'aurai déménagé.
+En 2050, j'aurai acheté une maison.
+En 2050, j'aurai changé d'ordinateur.
+
+Page 56
+
+b- Visionnez la première partie (0-0’50) de la vidéo “Le Québec agit” et répondez. 
+
+Qu’est-ce que l’effet de serre ? : La chaleur du soleil qui n’échappe pas de la terre. 
+Que veut dire GES ? Qui les émet ? : Gaz à effet de serre. Les animaux, les volcans, les personnes/gens, les industries. 
+
+2- Visionnez la deuxième partie (0-1’30) et listez les conséquences du dérèglement climatique. 
+Le niveau de la mer augmente, les animaux et la végétation commence à disparaître, on voit des inondations, des événements naturels (des orages plus forts) 
+
+3- Visionnez la troisième partie de la vidéo (1’30 - 2’45) et identifiez les actions du Québec contre le changement climatique.
+Diminuer les émissions de GES, protéger les sources d’eau potable, prévoir les vagues de chaleur, protéger la distribution électrique, créer des espaces verts.   
+
+4- Trouvez les verbes correspondants :
+
+a) la fonte - fondre
+b) les inondations - inonder
+c) l’émission - émettre
+d) le réchauffement - réchauffer
+e) la hausse - hausser
+f) la baisse - baisser
+g) la disparition - disparaître
+h) l’accélération - accélérer
+
+
+1) On aurait dû interdire l’émission de GES avant. 
+un reproche
+
+2) Les gouvernements unis auraient pu sauver des milliers d’animaux.
+un reproche
+
+3) Le niveau de la mer serait monté 3 à 4 fois plus vite que la moyenne mondiale dans le Pacifique.
+une information non confirmée
+
+4) Si j’avais su, je m’y serais engagée avant.
+un remords, un regret
+
+Exercices
+
+A.
+1- Je prendrai une décision dès que j'en aurai parlé à mes associés.
+2- Nous vous communiquerons notre décision dès que nous nous serons décidés.
+3- Il partira en vacances dès qu'il aura passé son examen.
+4- Je prendrai la commande dès que vous aurez choisi.
+5- Les enfants ! Vous viendrez à table quand vous se serez lavés les mains !
+6- Tu ne sortiras de table que lorsque tu aura mangé toute ta viande.
+7- Nous sortirons aussitôt que la pluie aura cessé.
+8- Dès que nous nous serons expliqués il n'y aura plus de malentendu.
+9- On pique-niquera quand on sera arrivé au sommet, pas avant.
+10- Va dormir un peu, ça ira mieux quand tu te sera reposé.
+11- Je répondrai à votre question quand je l'aurai comprise.
+
+B.
+Quand je serai grand je travaillerai pour m'acheter un bateau.
+
+Quand j'aurai gagné assez d'argent pour m'acheter un bateau je m'en achèterai un et je ferai le tour du monde.
+
+Dès que je serai arrivé je te téléphonerai et je passerai chez toi aussitôt que j'aurai défait mes valises.
+
+Tant que vous n'aurez pas dis ce que vous savez, vous ne sortirez pas du commissariat de police !
+
+Quand vous aurez rappelé notre client et qu'il vous aura donné une réponse définitive, vous me préviendrez immédiatement.
+
+Dans quelques mois tout ira bien:
+Il aura fait beaucoup de progrès en français, il se sera habitué à la vie en France et il se sera fait des amis.
+
+A.
+Je pourrais - J'aurais pu
+Il faudrait - Il aurait fallu
+Il vaudrait mieux que - Il aurait valu mieux que 
+Je ferais mieux que - J'aurais fait mieux que
+Je voudrais - J'aurais voulu
+J'aimerais - J'aurais aimé
+Je souhaiterais - J'aurais souhaité
+Je serais prêt à - J'aurais été prêt à 
+Ça me plairait de - Ça me serait plu
+Ça m'intéresserait de - Ça me serait intéressé de
+Ça me serait facile de - Ça me serait été facile de
+Ça me ferait plaisir de - Ça me serait fait plaisir de
+Ça me serait égal de - Ça me serait été égal de
+
+B.
+1- Je ne suis pas parti avec eux mais j'aurais aimé partir.
+2- Il n'a pas réussi mais il aurait pu réussir.
+3- Il a fait des études de droit mais ça l'aurait intéressé de faire médecine.
+4- Nous ne lui avons pas téléphoné mais nous aurions dû le faire.
+5- Pourquoi ne pas avoir retenu des places. Il aurait fallu réserver!
+6- Elle a oublié notre rendez-vous. J'aurais dû le lui rappeler.
+7- Je suis devenu cuisinier mais j'aurais aimé être photographe.
+8- On ne nous a pas invités mais ça nous aurait fait plaisir d'être invités.
+
+C.
+1- 
+Au Début de la fête
+Il boit trop; ce n'est pas raisonnable, il ne devrais pas boire trop.
+
+À la fin de la fête
+Il a beaucoup trop bu; il n'aurais pas dû boire trop.
+
+2-
+Avant une réunion
+Une réunion de plus qui ne servira à rien. Nous ferions mieux aller à la pêche.
+
+Après la réunion
+Encore une réunion inutile; nous aurions fait mieux aller à la pêche.
+
+3-
+L'avant-veille d'un concert
+Il n'y a peut-être plus beaucoup de place, il faudrait réserver.
+
+Le jour du concert à l'entrée
+Il n'y a plus aucune place, il aurait fallu réserver.
+
+
+
+
+
+
 
 
 
