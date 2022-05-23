@@ -3,8 +3,8 @@ Course de Français - B1
 Unité 4  
 Fagner Geraldes Braga    
 Date de création: 13/05/2022 
-Mis à jour: 16/05/2022  
-Version: 0.02
+Mis à jour: 23/05/2022  
+Version: 0.03
 **************************
 
 1- Complétez les verbes avec à ou de.
@@ -153,3 +153,38 @@ c) Je liserai quand vous aurez fini le dossier.
 d) J'attendrai tant que la loi n’aura pas été votée.
 e) Vous mangerez quand vous vous serez lavé les mains.
 f) Elle voyagera quand elle aura quitté l’hôpital.
+
+14- 
+
+a- Si j'étais arrivé plus tôt, nous aurions pu déjéuner ensemble.
+b- Si nous l'avions cru, nous aurions résolu le problème.
+c- Si vous vous étiez préparés plus vite, vous n'auriez pas raté le vol.
+d- Si tu lui avais prêté de l'argent, il aurait achété sa maison.
+
+15-
+
+a) Il serait guéri depuis longtemps s’il avait suivi ses conseils.
+b) Si tu te dépêchais un peu, on arriverait juste à l’heure pour le début de la séance.
+c) Nous serions allés le chercher s’il nous avait prévenus.
+d) Si tu avais travaillé un tout petit peu plus, tu aurais été reçu au concours.
+e) Je ne me serais pas perdu si tu m’avais indiqué le chemin correctement.
+f) S’il avait fait un peu plus chaud, on se serait baignés.
+g) Si tu avais pris le temps de bien lire la consigne tu aurais su faire ton exercice.
+h) Si par hasard tu ne pouvais pas venir il faudrait nous avertir à temps.
+
+Faire des hypothèses
+
+a) Si tu étais un jour de la semaine, lequel serais-tu?
+Si j'étais un jour de la semaine, je serais le samedi.
+
+b) Si tu étais un animal, lequel serais-tu?
+Si j'étais un animal, je serais un chien.
+
+c) Que ferais-tu si quelqu’un te demandait en mariage?
+Si quelqu’un me demandais en mariage,je n'aurais pas accepté. Je suis déjà marié.
+
+d) Si tu avais un pouvoir surnaturel, lequel serait-ce?
+Si j'avais un pouvoir surnaturel, j'aurais eu le pouvoir de me télétransporter.
+
+e) Si tu pouvais changer une partie de ton corps, laquelle serait-ce?
+Si je pouvais changer une partie de mon corps, j'aurais changé mon dos parce que j'ai mal au dos.

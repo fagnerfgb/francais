@@ -3,8 +3,8 @@ Course de Français - B1
 Unité 4  
 Fagner Geraldes Braga    
 Date de création: 30/04/2022  
-Mis à jour: 16/05/2022  
-Version: 0.04  
+Mis à jour: 23/05/2022  
+Version: 0.05  
 **************************
 Page 43
 
@@ -397,6 +397,32 @@ Il n'y a peut-être plus beaucoup de place, il faudrait réserver.
 
 Le jour du concert à l'entrée
 Il n'y a plus aucune place, il aurait fallu réserver.
+
+5- 
+a- Si le gouvernement investissait ses efforts pour protéger la nature, les changements climatiques causeraient moins de dégâts. 
+b- Les scientifiques auraient dû mesurer les impacts des changements climatiques.
+c- Si la population savait, elle aurait cru sur les impacts des changements climatiques.
+d- Les ONG auraient dialogué avec le gouvernement et la population.
+e- Les lois auraient puni les entreprises qui causent beaucoup de pollution.
+
+Page 57
+7-
+a) Si tu découvrais qu’il ne te reste qu’un mois à vivre, tu aurais voyagé autour du monde.
+b) Si tu étais québécois(e), tu parlerais bien le français.
+c) Si tu étais riche, tu aurais aidé les plus pauvres.
+d) Si tu étais président(e) de ton pays, tu aurais pu éradiquer la corruption.
+e) Si Internet n’existait pas, la vie serait plus difficile.
+f) Si les dinosaures existaient encore, ils auraient tué l'humanité. 
+g) Si les religions n’existaient pas, la planète serait un peu plus tolérante.
+h) Si on pouvait respirer sous l’eau, on aurait été poissons.
+i) Si on pouvait vivre sur la lune, on aurait été lunatiques.
+
+8-
+J'aurais fait un monde mieux pour vivre.
+
+8-
+Je pense que toute la société est responsable pour agir sur les changements climatiques.
+Le gouvernement doit créer de politiques pour diminuer les émissions de GES, les entreprises doivent utiliser des produits qui sont moins dangereux à la planète et le peuple doit diminuer la consommation en général.
 
 
 
