@@ -156,10 +156,10 @@ f) Elle voyagera quand elle aura quitté l’hôpital.
 
 14- 
 
-a- Si j'étais arrivé plus tôt, nous aurions pu déjéuner ensemble.
+a- Si j'étais arrivé plus tôt, nous aurions pu déjeuner ensemble.
 b- Si nous l'avions cru, nous aurions résolu le problème.
 c- Si vous vous étiez préparés plus vite, vous n'auriez pas raté le vol.
-d- Si tu lui avais prêté de l'argent, il aurait achété sa maison.
+d- Si tu lui avais prêté de l'argent, il aurait acheté sa maison.
 
 15-
 
