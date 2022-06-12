@@ -102,13 +102,13 @@ b) Où est situé le bistro In Vivo ?
 Sur la grande Rue Sainte Catherine du côté est.  
 
 c) À quoi s'engage le bistro ?  
-Il s'engage a démocratiser les arts, la culture, la seule alimentation et le commerce equitable.  
+Il s'engage a démocratiser les arts, la culture, la saine alimentation et le commerce equitable.  
 
 d) Que peut-on faire au parc ?  
 On peut faire du jogging, profiter des arbres et du paysage.
 
 e) Où fait-elle son épicerie ? Pourquoi ?  
-Elle fait son épicerie au Marché Maisonneuve parce qu'elle trouve sorts de produits de bonne qualité.
+Elle fait son épicerie au Marché Maisonneuve parce qu'elle trouve toutes sortes de produits de bonne qualité.
 
 f) Que peut-on voir lors de l'exposition classique du Jardin botanique ?  
 On peut voir 22 mille espèces différentes des plants et des fleurs.  
@@ -195,19 +195,19 @@ On veut dire que Ville de Québec est un lieu très différent, surtout quand vo
 3- Lisez la transcription de la vidéo ci-dessous et complétez-la avec des pronoms relatifs sans réécouter la vidéo.
 
 Ici  
-Il y a des endroits **qui** nous transportent  
+Il y a des endroits **que** nous transportent  
 Et d'autres **qui** sont tellement beaux qu'ils nous renversent  
 Il y a ceux **que** reflètent notre histoire, notre culture, notre origine  
 Et d'autres tournés vers l'avenir  
 Il y a des saisons riches et pleines de couleurs **qui** ont teinté nos mots et leurs accents  
-Il y a des moments **qui** nous retournent, nous étonnent, nous enchantent  
+Il y a des moments **que** nous retournent, nous étonnent, nous enchantent  
 Et il y a tout ça  
 Ici  
 
 4- Lisez le texte ci-dessous.
 
 De quoi s'agit-il ?  
-Il s'agit d'un text pour bien connaître la région de Québec et un nous même parce qu'il y a des situations où nous ne pouvons pas controller.  
+Il s'agit d'un text pour bien connaître la région de Québec et nous même parce qu'il y a des situations où nous ne pouvons pas controller.  
 
 Quel est son objectif ?  
 Je pense que se nous voyageons au Québec nous pouvons faire aussi un voyage a l'intérieur de nous même.  
@@ -227,7 +227,7 @@ Pensez-vous que c'est important de lâcher prise ?
 Seulement quand il y a des situations où ne se peut pas controller.
 
 Dans quelles situations ?  
-J'ai un exemple. Pour émigrer au Québec, je peux étudier le français, je peux améliorer mes habilités techniques, je peux postuler dans les postes de travail, mais je ne peux savoir quand je serai convoqué pour un entretien d'embauche ou quand je recevrai un permis de travail.  
+J'ai un exemple. Pour émigrer au Québec, je peux étudier le français, je peux améliorer mes habilités techniques, je peux postuler dans les postes de travail, mais je ne peux pas savoir quand je serai convoqué pour un entretien d'embauche ou quand je recevrai un permis de travail.  
 
 Avez-vous de la difficulté à lâcher prise ?  
 Oui, je pense que je suis une personne idéaliste et que je vais changer le monde entier, mais ce n'est pas possible et je souffre un peu pour ça.  
@@ -268,8 +268,7 @@ Pensez-vous que ces initiatives peuvent être efficaces ?
 Oui, elles sont très importantes pour aider les communautés locales, le nature et la planète.
 
 Y a-t-il dans votre pays des initiatives similaires ?  
-Je pense que oui. Il y a déjà quelques lieux que s'utilisent de initiatives similaires comme le écotourisme.
-
+Je pense que oui. Il y a déjà quelques lieux que s'utilisent de initiatives similaires comme l'écotourisme.
 
 Quelles idées vous semblent les plus intéressantes, parmi celles proposées ?  
 Je pense qu'on se doit explorer les endroits à pied quand il est possible et aussi qu'on se doit manger de la nourriture locale.
@@ -295,15 +294,4 @@ Utilizer des produits biodégradables
 3-) Il faut qu'on parte en voyage.  
 4-) Il est indispensable qu'on écoute les autres.  
 5-) Il faut que vous voyiez le bon côté des choses.  
-6-) Il faut qu'on fasse du yoga.  
-
-
-
-
-
-
-
-
-
-
-
+6-) Il faut qu'on fasse du yoga.

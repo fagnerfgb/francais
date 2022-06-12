@@ -420,7 +420,7 @@ a) Que vas-tu faire pendant les vacances de Noël?
 Que feras tu pendant les vacances de Noël?  
 ***
 b) Quand je vais être grand, je vais être médecin.  
-Quand je serais grand, je serais médecin.  
+Quand je serai grand, je serai médecin.  
 ***
 c) Nous allons aller chez grand-mère pour son 85e anniversaire.  
 Nous irons chez grand-mère pour son 85e anniversaire.  
@@ -434,7 +434,7 @@ Est-ce que tu pourras m'aider?
 4-  
 a) Quand est-ce que tu viendras (venir) à Montréal?  
 b) Les boutiques commenceront (commencer) leur processus d'embauche en septembre.  
-c) Nous habiterons (habiter) ensemble, nous se marieront (se marier) et nous aurons (avoir) beaucoup d'enfants.  
+c) Nous habiterons (habiter) ensemble, nous nous marieront (se marier) et nous aurons (avoir) beaucoup d'enfants.  
 d) Votre colis vous sera (être) expédié dans moins de 5 jours.  
 f) Nous célébrerons (célébrer) le Carnaval.  
 
@@ -442,7 +442,7 @@ f) Nous célébrerons (célébrer) le Carnaval.
 Je vois que vous serez très riche, vous marierez et voyagerez autour du monde et pour finir vous aurez des enfants.  
 
 6-  
-Dans 5 ans je déménagerais au Canada et j'irais vivre une vie très calme et tranquille.  
+Dans 5 ans je déménagerai au Canada et j'irai vivre une vie très calme et tranquille.  
 
 d) Conjuguez les verbes suivants à l'impératif présent
 
@@ -487,7 +487,7 @@ Page 17
 6-  
 |Sujet|Être|Avoir|Aller|Pouvoir|Voir|Devoir|
 |:-----:|:------:|:------:|:-----:|:------:|:--------:|:-----:|
-|Je|serais|aurai|irai|pourrai|verrai|devrai|
+|Je|serai|aurai|irai|pourrai|verrai|devrai|
 |Tu|seras|auras|iras|pourras|verras|devras|
 |Il|sera|aura|ira|pourra|verra|devra|
 |Nous|serons|aurons|irons|pourrons|verrons|devrons|

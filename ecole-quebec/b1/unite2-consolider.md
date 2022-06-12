@@ -125,7 +125,7 @@ Quel type de manteau j'ai besoin d'acheter?
 Il est nécessaire que tu achètes un manteau imperméable et respirant, doublé en polaire.
 
 Et sur les types de chaussures?  
-Il est obligatoire que tu choisisses des bottes imperméable, isolant et doublé, avec des semelles antidérapantes.
+Il est obligatoire que tu choisisses des bottes imperméables, isolant et doublé, avec des semelles antidérapantes.
 
 Quels sont les meilleures type de gants pour l'hiver canadien?  
 Si tu as besoin d'utiliser ton smartphone, il faut que t'utilises des gants tactiles.
@@ -175,6 +175,3 @@ d)
 e)  
 Vous trouvez qu’il fasse beau.  
 **Vous trouvez qu’il fait beau.**  
-
-
-

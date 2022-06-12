@@ -96,8 +96,7 @@ a) Quand il vente fort, la mer est agitée.
 b) Il y a des arcs-en-ciel après la pluie.  
 c) Le mélange de la terre avec de l’eau s’appelle de la boue.  
 d) L’eau qui est congelée s’appelle de la glace.
-e) Quand le temps est très humide et qu’une sorte de nuage flotte à proximité du sol et réduit la visibilité, on dit qu’il y a de
-la brume.
+e) Quand le temps est très humide et qu’une sorte de nuage flotte à proximité du sol et réduit la visibilité, on dit qu’il y a de la brume.
 
 11- Choisissez le marqueur d’opposition qui convient.
 

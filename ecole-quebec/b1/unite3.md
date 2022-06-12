@@ -150,14 +150,11 @@ Le Carnaval québécois
 a) Pourquoi les habitants se réunissaient-ils ?  
 Ils avaient pris l’habitude de se réunir pour fêter un bon coup, juste avant la période du Carême.  
 
-
 b) Pourquoi le Carnaval a-t-il été interrompu ?  
 Parce qu'il y a eu les deux guerres mondiales et la grande crise économique de 1929.  
 
-
 c) Grâce à qui le Carnaval a-t-il repris vie ?  
 En 1954, dans une perspective de développement économique de la Vieille Capitale, un groupe de gens d’affaires relance la fête.  
-
 
 d) À quelles activités pouvons-nous participer au Carnaval de Québec ?  
 On a ajouté aux activités populaires que sont les sports d’hiver, la sculpture sur neige et autres, des activités puisées dans le mode de vie folklorique québécois, comme la course en canot et la course en traîneaux à chiens.  
@@ -220,10 +217,10 @@ Fagner
 Page 37  
 
 1- Lisez le message de Marc ci-dessous et remettez les faits de son message en ordre chronologique.  
-(2) le Carnaval de Rio  
-(3) l’arrivée à Québec  
-(1) la découverte du Carnaval de Québec  
-(4) le rêve de connaître le Québec  
+(1) le Carnaval de Rio  
+(4) l’arrivée à Québec  
+(2) la découverte du Carnaval de Québec  
+(3) le rêve de connaître le Québec  
 
 2- Relevez les phrases correspondant aux quatre événements de l’exercice précédent.  
 
@@ -254,12 +251,12 @@ Connaissez-vous le Québec ? Avez-vous déjà voyagé à l’étranger ? Raconte
 
 Je connais le Québec. J'y suis allé là en 2016.   
 En 2014, j'ai voyagé au Canada et j'ai eu l'opportunité de connaître des Montagnes Rocheuses.    
-Les paysages étaient étonnantes. Je suis allé de Vancouver à Banff dans le bus avec beaucoup d'étudiants. Nous avons visité le Lac Morraine et le Lac Louise. C'était le quatre jours le plus mémorable que je peux penser en ce moment.    
+Les paysages étaient étonnantes. Je suis allé de Vancouver à Banff dans un bus avec beaucoup d'étudiants. Nous avons visité le Lac Morraine et le Lac Louise. C'était les quatre jours le plus mémorables que je peux penser en ce moment.    
 
 
 Si vous allez à ce pays, il faut que vous preniez de la crème solaire.  
 Pour ne pas s'ennuyer pendant un voyage à ce pays, il est important de visiter une plage peuplée.  
-Pour aller à une plage de ce pays, il est essentiel de faire de réservation en avance parce que si vous le faire pendant la dernière minute, il n'y aura pas d'hébergement disponible.    
+Pour aller à une plage de ce pays, il est essentiel de faire de réservation en avance parce que si vous le faire pendant le dernier minute, il n'y aura pas d'hébergement disponible.    
 
 7- Écoutez le témoignage de Vincent et répondez.  
 Pourquoi est-il parti à l'étranger ?  
