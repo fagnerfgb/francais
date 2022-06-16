@@ -1,3 +1,9 @@
 Je suis grand. Je mesure 1,85m. Je ne suis pas mince, mais je ne suis pas gros. Je pèse 94 kilos. Mes cheveux sont courts et gris.
 J'ai les yeux bruns. Mon visage est long et ma peau est blanche. Je porte des lunettes.
 Je n'ai ni de la moustache ni de la barbe.
+
+Ma femme est petite. Elle n'est pas mince, mais elle n'est pas grosse. Elle a les cheveux châtains foncés, mi-longs et raides. Sa peau est blanche.
+Elle a les yeux bruns et son visage est rond. Elle porte des lunettes.
+
+Ma soeur est petite et mince. Elle a les cheveux châtains foncés, longs et raides. Elle est brunette. Elle a les yeux bruns et son visage est ovale.
+Elle porte des lunettes.
