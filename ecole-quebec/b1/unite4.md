@@ -11,7 +11,7 @@ Page 43
 1- Que faut-il faire pour vivre en bonne santé ?  
 On doit faire une bonne alimentation, des activités physiques et mentales et bien dormir.
 
-2- D’après vous, qu’est-ce qu’une alimentation équilibrée ? Jugez-vous que vous avez une saine alimentation ?  
+2- D'après vous, qu'est-ce qu'une alimentation équilibrée ? Jugez-vous que vous avez une saine alimentation ?  
 Une alimentation équilibrée est quand on mange des fruits, des légumes, des céréales, des protéines et des carbohydrates. Il est important manger sans exagérer et en plus on doit éviter des produits industrialisés et les aliments riches en sucre, sodium et matières grasses.
 
 3- Que faites-vous lorsque vous êtes malade ?  
@@ -24,13 +24,13 @@ Je vais chez le médecin surtout pour faires des examens de routine.
 J'ai cassé mon pied en jouant au football.
 Quand j'étais en vacances chez mon ami, j'ai cassé le bras quand je suis tombé dans la plaque chez eux.
 
-6- D’après vous, quel rapport y a-t-il entre le sommeil et la santé ?  
+6- D'après vous, quel rapport y a-t-il entre le sommeil et la santé ?  
 Le sommeil est important pour les corps et l'esprit.
 
-7- Que faites-vous lorsque vous n’arrivez pas à vous endormir ?
+7- Que faites-vous lorsque vous n'arrivez pas à vous endormir ?
 En général je dors três bien tous les jours.
 
-8- Que savez-vous de l’homéopathie ? De l’acupuncture ? De la médecine alternative ?
+8- Que savez-vous de l'homéopathie ? De l'acupuncture ? De la médecine alternative ?
 Je pense qu'elles peuvent aider beaucoup de gens ainsi qu'elles sont plus naturels. J'ai déjà essayé faire de l'acupuncture parce que j'ai mal au dos, mais elle ne m'est aidée pas.
 
 9- Que pouvez-vous dire sur le système de santé de votre pays ? Quels sont les points forts et les points faibles ?
@@ -53,7 +53,7 @@ Page 45
 2-
 a) Quelle critique pourrait-on faire à ce guide?
 Donnez votre opinion ou trouvez dans Internet une critique du Guide alimentaire canadien.
-Je suis d'accord avec le guide, mais je pense que ce n'est pas facile d'avoir une saine alimentation parce les gens travaillent beaucoup de temps, n'ont pas de temps et n'ont pas d'argent suffisant pour acheter des produits nécessaires pour avoir une bonne santé.
+Je suis d'accord avec le guide, mais je pense que ce n'est pas facile d'avoir une saine alimentation parce les gens travaillent beaucoup de temps, n'ont pas de temps et n'ont pas assez d'argent pour acheter des produits nécessaires pour avoir une bonne santé.
 
 3- Allez sur le site La Piqûre du français, créé par le CCDMD (Centre collégial de développement de matériel didactique) et destiné aux infirmiers et infirmières qui doivent soigner en français au Québec.
 
@@ -104,7 +104,7 @@ c) Pourquoi ce document se constitue-t-il comme un outil?
 Il est important pour faire les gens réfléchir sur ce sujet.
 
 d) Qu’est-ce que Catherine pense du documentaire Québec sur ordonnance?
-Elle pense qu'il est caire avec le sense d'humour
+Elle pense qu'il est claire avec le sense d'humour
 
 e) Comment commenteriez-vous la réaction de Paul Arcand lorsque Catherine le présente comme« le très, très grand Paul Arcand »? (son expression faciale, sa réponse humoristique)
 
@@ -119,7 +119,7 @@ a) Connaissez-vous des gens qui dépendent de médicaments? Racontez!
 Oui, je connais des gens qui dépendent de médicaments pour la dépression.
 
 b) Que pensez-vous de la façon dont les médecins, en général, prescrivent les médicaments?
-Je pense qu'ils doivent prescrire des médicaments seulement si il est nécessaire.
+Je pense qu'ils doivent prescrire des médicaments seulement s'il est nécessaire.
 
 c) Quels sont les avantages et les désavantages du Ritalin (contre le déficit d’attention)? Accepteriez-vous d’en donner à vos enfants?
 Comme j'ai déjà dit, les gens doivent prendre des médicaments seulement s'il n'y a pas d'alternative. 
@@ -133,12 +133,12 @@ Prenez-vous des antidépresseurs ?
 Fagner n'en prend jamais.
 
 Prenez-vous des anti-inflammatoires ?
-Fagner en prend quand le médecin lui prescrit.
+Fagner en prend raremet.
 Mauro en prend rarement.
 
 Prenez-vous des produits naturels ? 
 Claudio en prend. Il prend de la menthe et du gingembre.
-Fagner en prend des thés.
+Fagner en prend. Il prend des thés.
 
 Prenez-vous des analgésiques ?
 Claudio en prend quand il a mal à la tête.
@@ -164,7 +164,7 @@ Au Brésil il n'y a pas de médecin de famille.
 5- Quels conseils vous donneriez à quelqu’un qui veut immigrer au Québec?
 On doit s'habituer au froid.  
 Il faut penser à apprendre le français. 
-Il faut être capable de s'adapter à une autre culture.  
+Il faut s'intéresser à connaître une autre culture.  
 Il faut s'adapter au nouveau type de nourriture.
 Il faut faire attention aux règles du nouveau pays.
 
@@ -173,7 +173,7 @@ Page 49
 6- Lisez le texte suivant, puis discutez-en.
 
 a) Quelles sont les difficultés mentionnées?
-attente de plusieurs heures à l’urgence avant d’être traité, difficultés et longues listes d’attente pour pouvoir obtenir un
+Attente de plusieurs heures à l’urgence avant d’être traité, difficultés et longues listes d’attente pour pouvoir obtenir un
 rendez-vous avec un médecin-spécialiste, manque flagrant de médecins de famille, etc.
 
 b) Quelle serait, à votre avis, la meilleure façon d’améliorer le système de santé au Québec? Serait-ce une des solutions proposées ci-haut? Ou une autre solution?
@@ -205,12 +205,12 @@ b) Son auteur est fâché ou enthousiaste ?
 Il est fâché.
 
 c) Quel est le but de la chanson ?
-C'est faire les gens réfléchir sur la question de consommation non seulement de l'eau mais de des choses en général.
-Il y a aussi une critique au capitalism et le manque de humanité dans la société
+C'est faire les gens réfléchir sur la question de consommation non seulement de l'eau mais des choses en général.
+Il y a aussi une critique au capitalism et le manque de humanité dans la société.
 
 d) Expliquez le dernier vers.
 Citoyens, l’avenir commence astheure
-Il est un appel pour les gens lutter contre des organisations et le gouvernement si on se veut...
+Il est un appel pour les gens lutter contre des organisations et le gouvernement.
 
 2 - Réécoutez la chanson. Relevez les phrases où on mentionne :
 
@@ -228,7 +228,7 @@ Quel couplet est le plus ironique ?
 “Mais l’Occident s’en lave encore les mains” / “On nous dit qu’c’est inépuisable”
 
 Et le plus bouleversant ?
-“Tous les 8 secondes un nouveau cancer qui nous range”
+“Tous les 8 secondes un nouveau cancer qui nous ronge”
 
 Page 54
 
