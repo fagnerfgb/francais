@@ -226,7 +226,8 @@ Propriétaire:
 C'est important que l'appartement soit propre
 C'est essentiel de faire un bon contrat de location 
 C'est bonne de faire l'enquête de la situation financière du locataire
-    Locataire:
+
+Locataire:
 Il est important de savoir si l'appartement est propre.
 C'est important que le locataire connaisse la structure du quartier
 C'est essentiel de savoir le coût/prix mensuel du loyer de logement.
